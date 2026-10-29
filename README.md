@@ -1,6 +1,4 @@
 # Codex-Gigas
-The Codex Gigas Project   Manifest-Governed Intelligence, Knowledge, and System Lifecycles
-
 
 Title:
   The Codex Gigas Project
